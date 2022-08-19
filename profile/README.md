@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="../images/banner.png" alt="Leadcode banner">
+<img src="https://cdn.discordapp.com/attachments/1009821473092943934/1010266025364832296/banner.png" alt="Leadcode banner">
 
 Welcome to the official **Leadcode** github page, where you can find all our OpenSource work, as well as documentation.
 You can also find `important information related to the project`.
